@@ -10,7 +10,7 @@ Current focus: Linux command-line mastery (OverTheWire Bandit) → networking ba
 - **labs/** → Write-ups for wargames/rooms (commands, errors, screenshots, SOC/IR ties)
 - **docs/** → Daily reflections, resume versions, self-assessments
 - **code/** → Scripts & tools built
-- **resources/** → Cheat sheets & curated notes
+- **resources/** → Cheat sheets & curated notes.
 
 ## Week 1 
 
